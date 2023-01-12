@@ -206,7 +206,7 @@ header.sticky{
 .layer{
 	width: 100%;
 	height: 0;
-	background: linear-gradient(rgba(0,0,0,0.1), #B33951);
+	background: linear-gradient(rgba(0,0,0,0.1), #91C7B1);
 	position: absolute;
 	border-radius: 8px;
 	left: 0;
@@ -259,9 +259,9 @@ header.sticky{
 	background: var(--bg-color);
 }
 .top i{
-	padding: 30px;
+	padding: 20px;
 	border-radius: 8px;
-	font-size: 40px;
+	font-size: 30px;
 	background: var(--main-color);
 }
 

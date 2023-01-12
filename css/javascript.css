@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&display=swap');
+    
+    .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+  h1{
+    font-size: 55px;
+    text-decoration:none
+    }
+  a {
+    color: #E3D081;
+    text-decoration: none;  
+  }
+    .titulo{
+      text-align: center;
+      color: #E3D081;
+      padding: 90px;
+      text-decoration: none;
+    }
+    .card {
+    width: 250px;
+    height: 350px;
+    background-color: #91C7B1;
+    border-radius: 10px;
+    padding: 60px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    text-decoration:none;
+    margin-bottom: 300px;
+    }
+  body{
+    background-color: #54494B;
+    font-family: 'League Spartan', sans-serif;
+    position: relative;
+    bottom: 100px;  
+    overflow: hidden;
+  }
+
+ 
