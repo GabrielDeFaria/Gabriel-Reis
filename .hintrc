@@ -7,7 +7,8 @@
       "default",
       {
         "image-alt": "off",
-        "frame-title": "off"
+        "frame-title": "off",
+        "document-title": "off"
       }
     ],
     "axe/language": [
@@ -32,6 +33,7 @@
           "scroll-behavior"
         ]
       }
-    ]
+    ],
+    "disown-opener": "off"
   }
 }
