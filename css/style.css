@@ -10,11 +10,11 @@
 	scroll-behavior: smooth;
 }
 :root{
-	--bg-color: #54494B;
-	--second-bg-color: #E3D081;
+	--bg-color: #A4B8C4;
+	--second-bg-color: #6E8387;
 	--text-color: rgb(255, 255, 255);
 	--second-color: #fff;
-	--main-color: #91C7B1;
+	--main-color: #0CCA4A;
 	--big-font: 5rem;
 	--h2-font: 3rem;
 	--p-font: 1.1rem;
@@ -59,14 +59,7 @@ span{
 .navlist a:hover{
 	color: var(--main-color);
 }
-#menu-icon{
-	font-size: 30px;
-	color: var(--text-color);
-	z-index: 10001;
-	cursor: pointer;
-	margin-left: 25px;
-	display: none;
-}
+
 
 section{
 	padding: 160px 15% 120px;
@@ -75,7 +68,7 @@ section{
 	position: relative;
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/background.gif);
+	background-image: url(../img/background.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position:center;
