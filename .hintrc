@@ -30,7 +30,8 @@
       "default",
       {
         "ignore": [
-          "scroll-behavior"
+          "scroll-behavior",
+          "aspect-ratio"
         ]
       }
     ],
